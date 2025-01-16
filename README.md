@@ -3,7 +3,7 @@
 SUMMARY 
 Passionate and hardworking Software Engineer with relevant skills and experiences in Machine learning and Full Stack Development. 
 I have provided excellent suggestions and solutions to the companies so that they have touched over $9M. 
-• Innovative Machine Learning Engineer with 8+ years of experience in application design, development, testing and deployment with Full stack experience. 
+- Innovative Machine Learning Engineer with 8+ years of experience in application design, development, testing and deployment with Full stack experience. 
 • Mastered in all kinds of modern Java script and python frameworks such as React, Angular, Vue for frontend, and Express, Flask, Django, RESTful APIs for backend. 
 • Experienced into Computer Vision and NLP with a passion for developing novel algorithms and systems that enable machines to see and understand the world around them.  
 • Substantial custom vision system integration and programming experience with Cognex vision systems. 
