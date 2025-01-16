@@ -1,4 +1,4 @@
-##Hi, I’m Jaffer
+## Hi, I’m Jaffer
 
 SUMMARY 
 Passionate and hardworking Software Engineer with relevant skills and experiences in Machine learning and Full Stack Development. 
