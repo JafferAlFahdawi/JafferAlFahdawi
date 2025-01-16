@@ -1,4 +1,4 @@
-Hi, I’m Jaffer
+##Hi, I’m Jaffer
 
 SUMMARY 
 Passionate and hardworking Software Engineer with relevant skills and experiences in Machine learning and Full Stack Development. 
@@ -12,6 +12,8 @@ I have provided excellent suggestions and solutions to the companies so that the
 • Unmatched abilities to identify, understand, and translate program requirements into sustainable, advanced technical solutions through Python, C++, C# and other programs for continuous improvement of AI technologies.   
 • Strong passion for optimizing software design for researching and implementing machine learning technology for client companies.  
 • Have done 10+ big AI projects successfully and implemented 30+ new important algorithms. 
+
+---
 
 SKILLS 
 • Programming: Python, C/C ++/C#, JavaScript, MATLAB 
