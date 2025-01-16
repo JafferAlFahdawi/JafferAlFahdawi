@@ -1,6 +1,5 @@
 Hi, I’m Jaffer
 
-
 SUMMARY 
 Passionate and hardworking Software Engineer with relevant skills and experiences in Machine learning and Full Stack Development. 
 I have provided excellent suggestions and solutions to the companies so that they have touched over $9M. 
